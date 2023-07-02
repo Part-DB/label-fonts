@@ -4,7 +4,7 @@
   "license": "proprietary",
   "description": "This library bundles the fonts used in Part-DB for label generators. Fonts are work of others.",
   "keywords": ["fonts", "font", "part-db"],
-  "homepage": "https://github.com/Part-DB/Part-DB-server"
+  "homepage": "https://github.com/Part-DB/Part-DB-server",
   "authors": [
     {
       "name": "The Part-DB Team",
