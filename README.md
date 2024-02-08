@@ -6,7 +6,7 @@ Please refer below for the shipped fonts and their licenses:
 ## unifont.ttf
 [**GNU Unifont Glyphs**](https://unifoundry.com/unifont/)
 
-Version: 15.0.06
+Version: 15.1.04
 
 ```
 LICENSE
